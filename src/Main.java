@@ -13,7 +13,6 @@ public class Main {
             translator.addWord("no", "ні");
             translator.addWord("yes", "так");
             translator.addWord("hello", "привіт");
-            translator.addWord("world", "світ");
             translator.addWord("my", "мій");
             translator.addWord("name", "ім'я");
             translator.addWord("is", "є");
